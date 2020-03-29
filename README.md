@@ -31,5 +31,12 @@ I finally learned Full Stack  Development by creating this app.  Earlier I had c
 ## What's next for Corona Confessions
 I will further expand this app with more functionalities like sending images, voice messages etc. I expect it to grow rapidly and then I will work harder on this
 
+## How to Run it?
+
+go to folder/client run `npm i` then `npm start`
+
+go to folder/server run `npm i` then `npm start`
+
+now go to `localhost:3000`
 Video Demo:-
 https://www.youtube.com/watch?v=H1d0bmlg_Cc&feature=youtu.be
