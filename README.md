@@ -1,3 +1,6 @@
+##Corona-Confessions
+Created by UTKARSH SHARMA
+
 ## Inspiration
 Social Isolation has led to depression, stress and tension among numerous people. Just Scrolling Insta feed or Watching Netflix whole day cannot replace the happiness we had when we were together. Some feeling cannot be confessed with friends, families and partners. So here we built a Corona Confessions App specially dedicated to cater needs of Corona Lockdown
 
@@ -27,3 +30,6 @@ I finally learned Full Stack  Development by creating this app.  Earlier I had c
  
 ## What's next for Corona Confessions
 I will further expand this app with more functionalities like sending images, voice messages etc. I expect it to grow rapidly and then I will work harder on this
+
+Video Demo:-
+https://www.youtube.com/watch?v=H1d0bmlg_Cc&feature=youtu.be
